@@ -1,0 +1,10 @@
+{
+  "resultsType": "posts",
+  "directUrls": [
+    "https://www.instagram.com/humansofny/"
+  ],
+  "resultsLimit": 20,
+  "searchType": "hashtag",
+  "searchLimit": 10,
+  "commentsPostsLimit": 10
+}

@@ -1,0 +1,20 @@
+{
+  "name": "instagram-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Instagram Scraper: Scrape public Instagram profiles, posts, reels, comments, hashtags, and places. Get captions, likes, comments, media URLs, and owner details without logging in.",
+  "main": "example.js",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "keywords": [
+    "scraper",
+    "web-scraping",
+    "scrapely",
+    "instagram"
+  ],
+  "dependencies": {
+    "scrapely-client": "^2.25.15"
+  },
+  "license": "MIT"
+}
